@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="sreepradha_sreekesh">Sreepradha Sreekesh</string>
+    <string name="cmsc_355_spring_2019">CMSC 355, Spring 2019</string>
+    <string name="enter_the_following">Enter the following:</string>
+    <string name="individual_assignment_points_earned">Individual Assignment points earned:</string>
+    <string name="individual_assignment_points_possible">Individual Assignment points possible:</string>
+    <string name="team_project_points_earned">Team Project points earned:</string>
+    <string name="team_project_points_possible">Team Project points possible:</string>
+    <string name="midterm_exam_points_earned">Midterm Exam points earned:</string>
+    <string name="miditerm_exam_points_possible">Miditerm Exam points possible:</string>
+    <string name="final_exam_points_earned">Final Exam points earned:</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="final_exam_points_possible">Final Exam points possible:</string>
+    <string name="final_grade">FINAL GRADE:</string>
+    <string name="autocompletetextview">AutoCompleteTextView</string>
+    <string name="autocompletetextview">AutoCompleteTextView</string>
+    <string name="reset">Reset</string>
+</resources>
